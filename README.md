@@ -15,4 +15,4 @@ Bei unserem ersten Treffen nach der zweiten Sitzung, haben wir uns über unsere 
 
 
 Screenshot:
-![Hier sehen Sie einen Screenshot](/relative/path/to/screenshotBrücke.png?raw=true "Unity Screenshot")
+![Hier sehen Sie einen Screenshot](/relative/path/to/blob/master/screenshotBrücke.png?raw=true "Unity Screenshot")
