@@ -15,4 +15,4 @@ Bei unserem ersten Treffen nach der zweiten Sitzung, haben wir uns über unsere 
 
 
 Screenshot:
-![Hier sehen Sie einen Screenshot](/relative/path/to/screenshotbrücke.jpg?raw=true "Optional Title")
+![Hier sehen Sie einen Screenshot](/relative/path/to/screenshotBrücke.png?raw=true "Unity Screenshot")
