@@ -8,7 +8,7 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 **Projektidee:**
 - Unser VR-Projekt visualisiert eine interaktive 3D Virtual Reality Umgebung, die auf der Interpretation der Kurzgeschichte ***Barn Burning*** von Haruki Murakami und Lee Chang-dong basiert
 - Das Spiel findet, anders als in der Kurzgeschichte, aus der Sicht von Ben statt und spielt sich hauptsächlich in einem dunklen Wald ab
-- Dabei haben wir uns besonders auf die Atmosphäre fokussiert: Wir wollten durch unsere düstere Spielwelt (in welcher der Spieler lediglich eine Taschenlampe zur Orientierung besitzt) und die schlichte, aber unheimliche Geräuschkulisse eine gruselige bzw. bedrohliche Stimmung erzeugen
+- Dabei haben wir uns besonders auf die Atmosphäre fokussiert: Wir wollten durch unsere düstere Spielwelt und die schlichte, aber unheimliche Geräuschkulisse bzw. Musik eine gruselige/bedrohliche Stimmung erzeugen
 
 **Programmierung:**
 - Das Projekt soll als Mobile-App für das Betriebssystem **Android** programmiert werden
