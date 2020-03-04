@@ -19,7 +19,7 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 
 **Intro:**
 - Das Intro besteht aus einem Video, welches wir mithilfe einer 360°-Kamera gefilmt haben
-- Der Spieler sitzt aus der Sicht von unserem Protagonisten Ben in seinem Zimmer und schaut auf sein Tagebuch. In dieser Sequenz erzählt Ben dem Spieler seinen Plan, die nächste Scheune zu verbrennen (mit Hilfe von Zitaten aus der Kurzgeschichte). Dadurch wird dem Spieler seine Aufgabe für den interaktiven Teil der Anwendung näher gebracht
+- Der Spieler sitzt aus der Sicht von unserem Protagonisten Ben in seinem Zimmer und schaut auf sein Tagebuch. In dieser Sequenz erzählt Ben dem Spieler seinen Plan, die nächste Scheune zu verbrennen (in Form von Voice-Over). Dadurch wird dem Spieler seine Aufgabe für den interaktiven Teil der Anwendung näher gebracht
 
 **Spielwelt:**
 - Sobald das Intro endet, steht der Spieler im Spielbereich. Dieser ist eine Lichtung 
