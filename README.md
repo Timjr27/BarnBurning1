@@ -1,14 +1,28 @@
-# Barn Burning
+# Barn Burning - VR-Projekt
 
-## Projektidee:
+## Dokumentation
 
-Unser VR-Projekt zu der Kurzgeschichte „Barn Burning“ von Haruki Murakami und Lee Chang-dong soll eine interaktive Mobile-App werden. Die App soll mit Hilfe von Unity für Android programmiert werden. Das Spiel findet aus der Sicht von Ben statt. 
-Zu Beginn der Anwendung soll ein Intro starten. Das Intro ist ein Video, welches wir mit einer 360°-Kamera filmen. Der Spieler sitzt aus der Sicht von unserem Protagonisten Ben in Bens Zimmer und schaut auf sein Tagebuch. In dieser Sequenz erzählt Ben dem Spieler seinen Plan, eine Scheune zu verbrennen (mit Hilfe von Zitaten aus der Kurzgeschichte). Dadurch erfährt der Spieler seine Aufgabe für den interaktiven Teil der Anwendung. Sobald das Video endet, steht der Spieler in dem Spielbereich. Der Spielbereich ist eine Lichtung 
-in einem Wald, wo sich eine Hütte befindet. Zu Beginn steht der Spieler an seinem Auto und nimmt essentielle Gegenstände zum Abbrennen der Hütte aus dem Kofferraum auf. Dazu gehört auch eine Taschenlampe, denn der gesamte Spielbereich ist sehr dunkel und man kann kaum was sehen. Somit braucht der Spieler die Taschenlampe, um einen gewissen Bereich im Lichtkegel zu erkennen.  
-				- Screenshot aus Slenderman, Videospiel (2012)
+**Projektidee:**
+- Unser VR-Projekt visualisiert eine interaktive 3D Virtual Reality Umgebung, die auf der Interpretation der Kurzgeschichte ***Barn Burning*** von Haruki Murakami und Lee Chang-dong basiert
+- Das Spiel findet, anders als in der Kurzgeschichte, aus der Sicht von Ben statt und spielt sich hauptsächlich in einem dunklen Wald ab
+- Dabei haben wir uns besonders auf die Atmosphäre fokussiert: Wir wollten durch unsere düstere Spielwelt (in welcher der Spieler lediglich eine Taschenlampe zur Orientierung besitzt) und die schlichte, aber unheimliche Geräuschkulisse eine gruselige bzw. bedrohliche Stimmung erzeugen
 
-Dadurch soll der Gruselfaktor des Spiels steigen. Der Spieler muss als Nächstes mit den
-eingesammelten Gegenständen die Hütte abbrennen. Sobald der Spieler es geschafft hat, die Hütte in Brand zu setzen, erscheint in undefinierten Abständen ein Gewitter, indem man die Silhouette einer jungen Frau erkennen kann. Dieses Gewitter soll als kleiner Jumpscare fungieren, um dem Spiel einen leichten Horrorfaktor zu geben. 
+**Programmierung:**
+- Das Projekt soll als Mobile-App für das Betriebssystem **Android** programmiert werden
+- Für die Programmierung unseres Projektes haben wir uns für die Verwendung von **Unity** entschieden: Eine Entwicklungsumgebung, die die Entwicklung von Computerspielen und anderer interaktiver 3D-Grafik-Anwendungen ermöglicht.
+
+**Modellierung:**
+- Die im Spiel verwendeten Modelle haben wir lizenzfrei von Plattformen wie **Sketchfab**, **Turbosquid** und aus dem **Unity Asset Store** heruntergeladen
+
+**Intro:**
+- Das Intro besteht aus einem Video, welches wir mithilfe einer 360°-Kamera gefilmt haben
+- Der Spieler sitzt aus der Sicht von unserem Protagonisten Ben in seinem Zimmer und schaut auf sein Tagebuch. In dieser Sequenz erzählt Ben dem Spieler seinen Plan, die nächste Scheune zu verbrennen (mit Hilfe von Zitaten aus der Kurzgeschichte). Dadurch wird dem Spieler seine Aufgabe für den interaktiven Teil der Anwendung näher gebracht
+
+**Spielwelt:**
+- Sobald das Intro endet, steht der Spieler im Spielbereich. Dieser ist eine Lichtung 
+in einem Wald, in dem sich eine Hütte befindet. 
+- Zu Beginn steht der Spieler an seinem Auto und nimmt essentielle Gegenstände zum Abbrennen der Hütte aus dem Kofferraum auf. Dazu gehört auch eine Taschenlampe, welche der Spieler zur Orientierung benötigen wird, da der gesamte Spielbereich sehr dunkel ist und man man ohne sie kaum etwas sehen könnte. Somit braucht der Spieler die Taschenlampe, um einen gewissen Bereich im Lichtkegel zu erkennen.  
+- Der Spieler muss eingesammelten Gegenständen die Hütte abbrennen. Sobald der Spieler es geschafft hat, die Hütte in Brand zu setzen, erscheint in undefinierten Abständen ein Gewitter, indem man die Silhouette einer jungen Frau erkennen kann. Dieses Gewitter soll als kleiner Jumpscare fungieren, um dem Spiel einen leichten Horrorfaktor zu geben. 
 Unsere Arbeitsweise:
 Zu Beginn haben wir als Kommunikationsmittel Whatsapp gewählt. Dort haben wir bei unserem ersten Treffen eine Gruppe erstellt, um dort schnell und unkompliziert Ideen auszutauschen. Darüber hinaus nutzen wir GitHub, um Modelle für Unity, neue Ansätze für die Storyumsetzung und Code für die App zu teilen. 
 Bei unserem ersten Treffen nach der zweiten Sitzung, haben wir uns über unsere Arbeitsschritte Gedanken gemacht. Die Idee für die Storyumsetzung kam relativ früh, wir wussten das wir mit Dunkelheit, starken Kontrasten und einen gewissen Gruselfaktor arbeiten möchten. Zuerst wollten wir die Joggingstrecke nachstellen, jedoch haben wir die Idee wieder verworfen, da wir es interessanter fanden, die Geschichte aus der Sicht von Ben, und nicht dem Protagonisten aus der Kurzgeschichte, zu erzählen. Wir haben uns Notizen zur Umsetzung gemacht und diese über Github geteilt. Die Arbeitsschritte wurden klar gesetzt und verteilt.  
