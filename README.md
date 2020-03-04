@@ -12,7 +12,7 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 
 **Programmierung:**
 - Das Projekt soll als Mobile-App für das Betriebssystem **Android** programmiert werden
-- Für die Programmierung unseres Projektes haben wir uns für die Verwendung von **Unity** entschieden: Eine Entwicklungsumgebung, die die Entwicklung von Computerspielen und anderer interaktiver 3D-Grafik-Anwendungen ermöglicht.
+- Für die Programmierung unseres Projektes haben wir uns für die Verwendung von **Unity** entschieden: Eine Entwicklungsumgebung, die die Entwicklung von Computerspielen und anderer interaktiver 3D-Grafik-Anwendungen ermöglicht
 
 **Modellierung:**
 - Die im Spiel verwendeten Modelle haben wir lizenzfrei von Plattformen wie **Sketchfab**, **Turbosquid** und aus dem **Unity Asset Store** heruntergeladen
@@ -23,8 +23,8 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 
 **Spielwelt:**
 - Sobald das Intro endet, steht der Spieler im Spielbereich. Dieser ist eine Lichtung 
-in einem Wald, in dem sich eine Hütte befindet. 
-- Zu Beginn steht der Spieler an seinem Auto und nimmt essentielle Gegenstände zum Abbrennen der Hütte aus dem Kofferraum auf. Dazu gehört auch eine Taschenlampe, welche der Spieler zur Orientierung benötigen wird, da der gesamte Spielbereich sehr dunkel ist und man man ohne sie kaum etwas sehen könnte. Somit braucht der Spieler die Taschenlampe, um einen gewissen Bereich im Lichtkegel zu erkennen.  
+in einem Wald, in dem sich eine Hütte befindet 
+- Zu Beginn steht der Spieler an seinem Auto und nimmt essentielle Gegenstände zum Abbrennen der Hütte aus dem Kofferraum auf. Dazu gehört auch eine Taschenlampe, welche der Spieler zur Orientierung benötigen wird, da der gesamte Spielbereich sehr dunkel ist und man man ohne sie kaum etwas sehen könnte. Somit braucht der Spieler die Taschenlampe, um einen gewissen Bereich im Lichtkegel zu erkennen  
 - Der Spieler muss sich nun einen Weg durch den Wald bahnen und mithilfe der eingesammelten Gegenständen die Hütte abbrennen. Auf dem Weg zur Hütte erscheint in undefinierten Abständen ein durch Gewitter ausgelöster Blitz, welcher die Umgebung erhellt und die Silhouette einer jungen Frau erscheinen lässt. Dies soll als kleiner Jumpscare fungieren, um dem Spiel einen leichten Horrorfaktor zu geben. Beim Abbrennen der Hütte erreicht diese Mechanik in ähnlicher Ausführung ihren Höhepunkt
 - Das Spielerlebnis wird von Zitaten aus dem Text begleitet, welche wir sowohl in Textform, als auch als Voice-Over im Spiel eingebaut haben
 
