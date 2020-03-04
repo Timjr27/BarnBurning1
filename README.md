@@ -1,6 +1,6 @@
-# BarnBurning
+# Barn Burning
 
-Projektidee:
+ **Projektidee**:
 
 Unser VR-Projekt zu der Kurzgeschichte „Barn Burning“ von Haruki Murakami und Lee Chang-dong soll eine interaktive Mobile-App werden. Die App soll mit Hilfe von Unity für Android programmiert werden. Das Spiel findet aus der Sicht von Ben statt. 
 Zu Beginn der Anwendung soll ein Intro starten. Das Intro ist ein Video, welches wir mit einer 360°-Kamera filmen. Der Spieler sitzt aus der Sicht von unserem Protagonisten Ben in Bens Zimmer und schaut auf sein Tagebuch. In dieser Sequenz erzählt Ben dem Spieler seinen Plan, eine Scheune zu verbrennen (mit Hilfe von Zitaten aus der Kurzgeschichte). Dadurch erfährt der Spieler seine Aufgabe für den interaktiven Teil der Anwendung. Sobald das Video endet, steht der Spieler in dem Spielbereich. Der Spielbereich ist eine Lichtung 
