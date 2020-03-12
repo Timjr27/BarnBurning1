@@ -61,5 +61,5 @@ in einem Wald, in dem sich eine Hütte befindet
 - Außerdem sind manche Gegenstände mit gewissen Events versehen, zum Beispiel erscheint bei längerem Betrachten bestimmter Bäume ein Textfeld mit Zitaten aus der Kurzgeschichte 
 - Auch die Soundeffekte und Hintergrundmusik sind größtenteils in der Anwendung erhalten 
 
-**Schwierigekeiten und Probleme:**
+**Schwierigkeiten und Probleme:**
 - Bei der Vorführung unseres Prototypen (Version 6 unserer Anwendung) mussten wir leider feststellen, dass das Spiel auf einem Samsung Galaxy S8 abstürzt, da die Anforderung eventuell zu hoch sind. Daher besteht nun die Überlegung, die Plattform der Anwendung vom Smartphone auf den Computer zu ändern
