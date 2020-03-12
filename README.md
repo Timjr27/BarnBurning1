@@ -12,17 +12,24 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 - Dabei haben wir uns besonders auf die Atmosphäre fokussiert: Wir wollten durch unsere düstere Spielwelt und die schlichte, aber unheimliche Geräuschkulisse bzw. Musik eine gruselige/bedrohliche Stimmung erzeugen
 
 **Logo:**
-![Hier sehen Sie das Logo](https://raw.githubusercontent.com/paddze/BarnBurning1/master/Glade_Logo.jpg "Logo")
+- Das Logo des Spiels haben wir mithilfe von **Adobe Photoshop** erstellt
+- Durch die Flammen im Logo soll ein erster Bezug zu **Barn Burning** geschaffen werden
+
+![Hier sehen Sie das Logo](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Glade_Logo.jpg "Logo")
 
 **Programmierung:**
 - Das Projekt soll als Mobile-App für das Betriebssystem **Android** programmiert werden
 - Für die Programmierung unseres Projektes haben wir uns für die Verwendung von **Unity** entschieden: Eine Entwicklungsumgebung, die die Entwicklung von Computerspielen und anderer interaktiver 3D-Grafik-Anwendungen ermöglicht
+- Der dazugehörige Code ist ebenfalls in diesem Projekt-GitHub einsehbar
 
 **Modellierung:**
 - Die im Spiel verwendeten Modelle haben wir lizenzfrei von Plattformen wie **Sketchfab**, **Turbosquid** und aus dem **Unity Asset Store** heruntergeladen
 
 **Startbildschirm:**
+- Das Titelbild, welches als Startbildschirm des Spiels erscheinen soll, haben wir ebenfalls mithilfe von **Adobe Photoshop** erstellt
+- Durch das beklemmende Design des Titelbilds soll der Spieler direkt auf die düstere Atmosphäre des Spiels eingestellt werden
 
+![Hier sehen Sie den Startbildschirm](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Glade_Titelbild.jpg "Titelbild")
 
 **Intro:**
 - Das Intro besteht aus einem Video, welches wir mithilfe einer 360°-Kamera gefilmt haben
@@ -31,11 +38,13 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 **Spielwelt:**
 - Sobald das Intro endet, steht der Spieler im Spielbereich. Dieser ist eine Lichtung 
 in einem Wald, in dem sich eine Hütte befindet 
-- Zu Beginn steht der Spieler an seinem Auto und nimmt essentielle Gegenstände zum Abbrennen der Hütte aus dem Kofferraum auf. Dazu gehört auch eine Taschenlampe, welche der Spieler zur Orientierung benötigen wird, da der gesamte Spielbereich sehr dunkel ist und man man ohne sie kaum etwas sehen könnte. Somit braucht der Spieler die Taschenlampe, um einen gewissen Bereich im Lichtkegel zu erkennen  
+- Zu Beginn steht der Spieler an seinem Auto und nimmt essentielle Gegenstände zum Abbrennen der Hütte aus dem Kofferraum auf. Dazu gehört auch eine Taschenlampe, welche der Spieler zur Orientierung benötigen wird, da der gesamte Spielbereich sehr dunkel ist und man man ohne sie kaum etwas sehen könnte. Somit braucht der Spieler die Taschenlampe, um einen gewissen Bereich im Lichtkegel erkennen zu können
 - Der Spieler muss sich nun einen Weg durch den Wald bahnen und mithilfe der eingesammelten Gegenständen die Hütte abbrennen. Auf dem Weg zur Hütte erscheint in undefinierten Abständen ein durch Gewitter ausgelöster Blitz, welcher die Umgebung erhellt und die Silhouette einer jungen Frau erscheinen lässt. Dies soll als kleiner Jumpscare fungieren, um dem Spiel einen leichten Horrorfaktor zu geben. Beim Abbrennen der Hütte erreicht diese Mechanik in ähnlicher Ausführung ihren Höhepunkt, indem sich die brennende Hütte in ebenjene junge Frau verwandelt
 - Das Spielerlebnis wird von Zitaten aus dem Text begleitet, welche wir sowohl in Textform, als auch als Voice-Over im Spiel eingebaut haben
 
-![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/screenshotBr%C3%BCcke.png "Unity Screenshot")
+![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/overviewWorld.PNG "Unity Screenshot - Spielbereich")
+
+![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/screenshotBr%C3%BCcke.png "Unity Screenshot - InGame")
 
 
 **Arbeitsweise und Kommunikation:**
