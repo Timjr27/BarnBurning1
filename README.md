@@ -12,7 +12,7 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 - Dabei haben wir uns besonders auf die Atmosphäre fokussiert: Wir wollten durch unsere düstere Spielwelt und die schlichte, aber unheimliche Geräuschkulisse bzw. Musik eine gruselige/bedrohliche Stimmung erzeugen
 
 **Logo:**
-
+![Hier sehen Sie das Logo](https://raw.githubusercontent.com/paddze/BarnBurning1/master/Glade_Logo.jpg "Logo")
 
 **Programmierung:**
 - Das Projekt soll als Mobile-App für das Betriebssystem **Android** programmiert werden
