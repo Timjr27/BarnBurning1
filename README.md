@@ -1,4 +1,4 @@
-# Barn Burning - VR-Projekt
+# VR-Projekt: ***GLADE***
 
 ## Dokumentation
 
@@ -6,9 +6,13 @@
 Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 
 **Projektidee:**
-- Unser VR-Projekt visualisiert eine interaktive 3D Virtual Reality Umgebung, die auf der Interpretation der Kurzgeschichte ***Barn Burning*** von Haruki Murakami und Lee Chang-dong basiert
+- Unser VR-Projekt ***Glade*** visualisiert eine interaktive 3D-Virtual-Reality-Umgebung in Form eines Spiels, welches auf der Interpretation der Kurzgeschichte **Barn Burning** von Haruki Murakami und Lee Chang-dong basiert
 - Das Spiel findet, anders als in der Kurzgeschichte, aus der Sicht von Ben statt und spielt sich hauptsächlich in einem dunklen Wald ab
+- Wir haben uns dafür entschieden, unser Projekt nicht genauso wie die Kurzgeschichte (*Barn Burning*) zu nennen, sondern haben den Titel ***Glade*** gewählt, um zu verdeutlichen, dass das Projekt nicht den exakt selben Inhalt wie die Kurzgeschichte beinhaltet, sondern unsere eigene Interpretation dieser verkörpert. Es basiert zwar auf dieser, erzählt die Geschichte aber aus einer anderen Perspektive. Des Weiteren ist *Glade* englisch und bedeutet so viel wie *Lichtung*. Da sich in dem Wald, der den Spielbereich unseres Spiels ausmacht, eine Lichtung befindet, fanden wird diesen Titel für das Spiel passend
 - Dabei haben wir uns besonders auf die Atmosphäre fokussiert: Wir wollten durch unsere düstere Spielwelt und die schlichte, aber unheimliche Geräuschkulisse bzw. Musik eine gruselige/bedrohliche Stimmung erzeugen
+
+**Logo:**
+
 
 **Programmierung:**
 - Das Projekt soll als Mobile-App für das Betriebssystem **Android** programmiert werden
@@ -16,6 +20,9 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 
 **Modellierung:**
 - Die im Spiel verwendeten Modelle haben wir lizenzfrei von Plattformen wie **Sketchfab**, **Turbosquid** und aus dem **Unity Asset Store** heruntergeladen
+
+**Startbildschirm:**
+
 
 **Intro:**
 - Das Intro besteht aus einem Video, welches wir mithilfe einer 360°-Kamera gefilmt haben
