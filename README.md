@@ -16,9 +16,9 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 - Durch die Flammen im Logo (Bild 1) soll ein erster Bezug zu **Barn Burning** geschaffen werden
 - Durch das beklemmende Design des Titelbilds (Bild 2) soll der Spieler direkt auf die düstere Atmosphäre des Spiels eingestellt werden
 
-![Hier sehen Sie das Logo](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Glade_Logo.jpg "Logo")
+![Hier sehen Sie das Logo](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Artwork/Glade_Logo.jpg "Logo")
 
-![Hier sehen Sie den Startbildschirm](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Glade_Titelbild.jpg "Titelbild")
+![Hier sehen Sie den Startbildschirm](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Artwork/Glade_Titelbild.jpg "Titelbild")
 
 **Programmierung:**
 - Das Projekt soll als Mobile-App für das Betriebssystem **Android** programmiert werden
@@ -47,10 +47,11 @@ in einem Wald, in dem sich eine Hütte befindet
 ![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/overviewWorld.PNG "Unity Screenshot - Spielbereich")
 
 **Screenshots InGame:**
+![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Screenshots/screenshotStrasse.png "Unity Screenshot 1")
 
-![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/screenshotBr%C3%BCcke.png "Unity Screenshot 1")
+![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Screenshots/screenshotBr%C3%BCcke.png "Unity Screenshot 2")
 
-![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Screenshots/screenshotStrasse.png "Unity Screenshot 2")
+![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Screenshots/screenshotTisch.png "Unity Screenshot 3")
 
 **Arbeitsweise und Kommunikation:**
 - Zu Beginn haben wir als Kommunikationsmittel **Whatsapp** gewählt. Dort haben wir bei unserem ersten Treffen eine Gruppe erstellt, um dort schnell und unkompliziert Ideen auszutauschen
