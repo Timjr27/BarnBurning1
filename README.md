@@ -11,11 +11,14 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 - Wir haben uns dafür entschieden, unser Projekt nicht genauso wie die Kurzgeschichte (*Barn Burning*) zu nennen, sondern haben den Titel ***Glade*** gewählt, um zu verdeutlichen, dass das Projekt nicht den exakt selben Inhalt wie die Kurzgeschichte beinhaltet, sondern unsere eigene Interpretation dieser verkörpert. Es basiert zwar auf dieser, erzählt die Geschichte aber aus einer anderen Perspektive. Des Weiteren ist *Glade* englisch und bedeutet so viel wie *Lichtung*. Da sich in dem Wald, der den Spielbereich unseres Spiels ausmacht, eine Lichtung befindet, fanden wird diesen Titel für das Spiel passend
 - Dabei haben wir uns besonders auf die Atmosphäre fokussiert: Wir wollten durch unsere düstere Spielwelt und die schlichte, aber unheimliche Geräuschkulisse bzw. Musik eine gruselige/bedrohliche Stimmung erzeugen
 
-**Logo:**
-- Das Logo des Spiels haben wir mithilfe von **Adobe Photoshop** erstellt
+**Artwork:**
+- Das Logo und das Titelbild des Spiels haben wir mithilfe von **Adobe Photoshop** erstellt
 - Durch die Flammen im Logo soll ein erster Bezug zu **Barn Burning** geschaffen werden
+- Durch das beklemmende Design des Titelbilds soll der Spieler direkt auf die düstere Atmosphäre des Spiels eingestellt werden
 
 ![Hier sehen Sie das Logo](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Glade_Logo.jpg "Logo")
+
+![Hier sehen Sie den Startbildschirm](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Glade_Titelbild.jpg "Titelbild")
 
 **Programmierung:**
 - Das Projekt soll als Mobile-App für das Betriebssystem **Android** programmiert werden
@@ -30,12 +33,6 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 - Die Musik soll zur düsteren Atmosphähre beitragen und die Sounds sollen dem Spieler ein realistischeres Gefühl der Interaktion geben bzw. die Immersion verstärken
 - Die Voice Overs sind Zitate aus der Kurzgeschichte und sollen einen engeren Bezug zu dieser schaffen
 
-**Startbildschirm:**
-- Das Titelbild, welches als Startbildschirm des Spiels erscheinen soll, haben wir ebenfalls mithilfe von **Adobe Photoshop** erstellt
-- Durch das beklemmende Design des Titelbilds soll der Spieler direkt auf die düstere Atmosphäre des Spiels eingestellt werden
-
-![Hier sehen Sie den Startbildschirm](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Glade_Titelbild.jpg "Titelbild")
-
 **Intro:**
 - Das Intro besteht aus einem Video, welches wir mithilfe einer 360°-Kamera gefilmt haben
 - Der Spieler sitzt aus der Sicht von unserem Protagonisten Ben in seinem Zimmer und schaut auf sein Tagebuch. In dieser Sequenz erzählt Ben dem Spieler seinen Plan, die nächste Scheune zu verbrennen (in Form von Voice-Over). Dadurch wird dem Spieler seine Aufgabe für den interaktiven Teil der Anwendung näher gebracht
@@ -46,6 +43,8 @@ in einem Wald, in dem sich eine Hütte befindet
 - Zu Beginn steht der Spieler an seinem Auto und nimmt essentielle Gegenstände zum Abbrennen der Hütte aus dem Kofferraum auf. Dazu gehört auch eine Taschenlampe, welche der Spieler zur Orientierung benötigen wird, da der gesamte Spielbereich sehr dunkel ist und man man ohne sie kaum etwas sehen könnte. Somit braucht der Spieler die Taschenlampe, um einen gewissen Bereich im Lichtkegel erkennen zu können
 - Der Spieler muss sich nun einen Weg durch den Wald bahnen und mithilfe der eingesammelten Gegenständen die Hütte abbrennen. Auf dem Weg zur Hütte erscheint in undefinierten Abständen ein durch Gewitter ausgelöster Blitz, welcher die Umgebung erhellt und die Silhouette einer jungen Frau erscheinen lässt. Dies soll als kleiner Jumpscare fungieren, um dem Spiel einen leichten Horrorfaktor zu geben. Beim Abbrennen der Hütte erreicht diese Mechanik in ähnlicher Ausführung ihren Höhepunkt, indem sich die brennende Hütte in ebenjene junge Frau verwandelt
 - Das Spielerlebnis wird von Zitaten aus dem Text begleitet, welche wir sowohl in Textform, als auch als Voice-Over im Spiel eingebaut haben
+
+**Screenshots InGame:***
 
 ![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/overviewWorld.PNG "Unity Screenshot - Spielbereich")
 
