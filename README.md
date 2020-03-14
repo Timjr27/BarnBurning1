@@ -5,11 +5,13 @@
 **Gruppenmitglieder:**
 Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 
+
 **Projektidee:**
 - Unser VR-Projekt ***Glade*** visualisiert eine interaktive 3D-Virtual-Reality-Umgebung in Form eines Spiels, welches auf der Interpretation der Kurzgeschichte **Barn Burning** von Haruki Murakami und Lee Chang-dong basiert
 - Das Spiel findet, anders als in der Kurzgeschichte, aus der Sicht von Ben statt und spielt sich hauptsächlich in einem dunklen Wald ab
 - Wir haben uns dafür entschieden, unser Projekt nicht genauso wie die Kurzgeschichte (*Barn Burning*) zu nennen, sondern haben den Titel ***Glade*** gewählt, um zu verdeutlichen, dass das Projekt nicht den exakt selben Inhalt wie die Kurzgeschichte beinhaltet, sondern unsere eigene Interpretation dieser verkörpert. Es basiert zwar auf dieser, erzählt die Geschichte aber aus einer anderen Perspektive. Des Weiteren ist *Glade* englisch und bedeutet so viel wie *Lichtung*. Da sich in dem Wald, der den Spielbereich unseres Spiels ausmacht, eine Lichtung befindet, fanden wird diesen Titel für das Spiel passend
 - Dabei haben wir uns besonders auf die Atmosphäre fokussiert: Wir wollten durch unsere düstere Spielwelt und die schlichte, aber unheimliche Geräuschkulisse bzw. Musik eine gruselige/bedrohliche Stimmung erzeugen
+
 
 **Artwork:**
 - Das Logo und das Titelbild des Spiels haben wir mithilfe von **Adobe Photoshop** erstellt
@@ -20,13 +22,16 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 
 ![Hier sehen Sie den Startbildschirm](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Artwork/Glade_Titelbild.jpg "Titelbild")
 
+
 **Programmierung:**
 - Das Projekt soll als Mobile-App für das Betriebssystem **Android** programmiert werden
 - Für die Programmierung unseres Projektes haben wir uns für die Verwendung von **Unity** entschieden: Eine Entwicklungsumgebung, die die Entwicklung von Computerspielen und anderer interaktiver 3D-Grafik-Anwendungen ermöglicht
 - Der dazugehörige Code ist ebenfalls in diesem Projekt-GitHub einsehbar
 
+
 **Modellierung:**
 - Die im Spiel verwendeten Modelle haben wir lizenzfrei von Plattformen wie **Sketchfab**, **Turbosquid** und aus dem **Unity Asset Store** heruntergeladen
+
 
 **Musik, Sounds und Voice Overs:**
 - Die Musik, Sounds und Voice Overs im Spiel haben wir mithilfe des Programms **???** erstellt bzw. eingesprochen
@@ -37,6 +42,7 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 - Das Intro besteht aus einem Video, welches wir mithilfe einer 360°-Kamera gefilmt haben
 - Der Spieler sitzt aus der Sicht von unserem Protagonisten Ben in seinem Zimmer und schaut auf sein Tagebuch. In dieser Sequenz erzählt Ben dem Spieler seinen Plan, die nächste Scheune zu verbrennen (in Form von Voice-Over). Dadurch wird dem Spieler seine Aufgabe für den interaktiven Teil der Anwendung näher gebracht
 
+
 **Spielwelt:**
 - Sobald das Intro endet, steht der Spieler im Spielbereich. Dieser ist eine Lichtung 
 in einem Wald, in dem sich eine Hütte befindet 
@@ -46,6 +52,7 @@ in einem Wald, in dem sich eine Hütte befindet
 
 ![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/overviewWorld.PNG "Unity Screenshot - Spielbereich")
 
+
 **Screenshots InGame:**
 
 ![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Screenshots/screenshotStrasse.png "Unity Screenshot 1")
@@ -53,6 +60,7 @@ in einem Wald, in dem sich eine Hütte befindet
 ![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Screenshots/screenshotBr%C3%BCcke.png "Unity Screenshot 2")
 
 ![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Screenshots/screenshotTisch.png "Unity Screenshot 3")
+
 
 **Arbeitsweise und Kommunikation:**
 - Zu Beginn haben wir als Kommunikationsmittel **Whatsapp** gewählt. Dort haben wir bei unserem ersten Treffen eine Gruppe erstellt, um dort schnell und unkompliziert Ideen auszutauschen
@@ -62,11 +70,6 @@ in einem Wald, in dem sich eine Hütte befindet
 - Zuerst wollten wir die in der Kurzgeschichte beschriebene Joggingstrecke umsetzen, jedoch haben wir die Idee schnell wieder verworfen, da wir es interessanter fanden, die Geschichte aus der Sicht von Ben und nicht dem eigentlichen Protagonisten aus der Kurzgeschichte zu erzählen
 - Wir haben uns Notizen zur Umsetzung gemacht und diese über Github geteilt. Die Arbeitsschritte wurden klar gesetzt und verteilt  
 
-**Aktueller Stand unseres Projektes:**
-- Unsere aktuelle Projekt-.apk ist die **Version 6** (mobile_2020_26_01v6.apk) [siehe hier](https://drive.google.com/open?id=1H-TEaAewgI0skOXWUGXTnJJCdOPPRJSv). 
-- In dieser Version ist die Karte vollständig enthalten, die Steuerung ist fertig angepasst, und die ersten Animationen sind eingebaut
-- Außerdem sind manche Gegenstände mit gewissen Events versehen, zum Beispiel erscheint bei längerem Betrachten bestimmter Bäume ein Textfeld mit Zitaten aus der Kurzgeschichte 
-- Auch die Soundeffekte und Hintergrundmusik sind größtenteils in der Anwendung erhalten 
 
 **Schwierigkeiten und Probleme:**
 - Wir mussten leider feststellen, dass das Spiel auf dem uns zur Verfügung stehenden Android-Smartphone (Samsung Galaxy S8) abstürzt, da die Anforderungen eventuell zu hoch sind. Daher bestand die Überlegung, die Plattform der Anwendung vom Smartphone auf den Computer zu ändern. Auf dem Computer läuft das Spiel flüssig und kann ohne Probleme getestet werden. 
