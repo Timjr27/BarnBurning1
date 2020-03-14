@@ -25,6 +25,11 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 **Modellierung:**
 - Die im Spiel verwendeten Modelle haben wir lizenzfrei von Plattformen wie **Sketchfab**, **Turbosquid** und aus dem **Unity Asset Store** heruntergeladen
 
+**Musik, Sounds und Voice Overs:**
+- Die Musik, Sounds und Voice Overs im Spiel haben wir mithilfe des Programms **???** erstellt bzw. eingesprochen
+- Die Musik soll zur düsteren Atmosphähre beitragen und die Sounds sollen dem Spieler ein realistischeres Gefühl der Interaktion geben bzw. die Immersion verstärken
+- Die Voice Overs sind Zitate aus der Kurzgeschichte und sollen einen engeren Bezug zu dieser schaffen
+
 **Startbildschirm:**
 - Das Titelbild, welches als Startbildschirm des Spiels erscheinen soll, haben wir ebenfalls mithilfe von **Adobe Photoshop** erstellt
 - Durch das beklemmende Design des Titelbilds soll der Spieler direkt auf die düstere Atmosphäre des Spiels eingestellt werden
@@ -62,4 +67,4 @@ in einem Wald, in dem sich eine Hütte befindet
 - Auch die Soundeffekte und Hintergrundmusik sind größtenteils in der Anwendung erhalten 
 
 **Schwierigkeiten und Probleme:**
-- Bei der Vorführung unseres Prototypen (Version 6 unserer Anwendung) mussten wir leider feststellen, dass das Spiel auf einem Samsung Galaxy S8 abstürzt, da die Anforderung eventuell zu hoch sind. Daher besteht nun die Überlegung, die Plattform der Anwendung vom Smartphone auf den Computer zu ändern
+- Wir mussten leider feststellen, dass das Spiel auf dem uns zur Verfügung stehenden Android-Smartphone (Samsung Galaxy S8) abstürzt, da die Anforderungen eventuell zu hoch sind. Daher bestand die Überlegung, die Plattform der Anwendung vom Smartphone auf den Computer zu ändern. Auf dem Computer läuft das Spiel flüssig und kann ohne Probleme getestet werden. 
