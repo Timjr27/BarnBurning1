@@ -44,12 +44,13 @@ in einem Wald, in dem sich eine Hütte befindet
 - Der Spieler muss sich nun einen Weg durch den Wald bahnen und mithilfe der eingesammelten Gegenständen die Hütte abbrennen. Auf dem Weg zur Hütte erscheint in undefinierten Abständen ein durch Gewitter ausgelöster Blitz, welcher die Umgebung erhellt und die Silhouette einer jungen Frau erscheinen lässt. Dies soll als kleiner Jumpscare fungieren, um dem Spiel einen leichten Horrorfaktor zu geben. Beim Abbrennen der Hütte erreicht diese Mechanik in ähnlicher Ausführung ihren Höhepunkt, indem sich die brennende Hütte in ebenjene junge Frau verwandelt
 - Das Spielerlebnis wird von Zitaten aus dem Text begleitet, welche wir sowohl in Textform, als auch als Voice-Over im Spiel eingebaut haben
 
-**Screenshots InGame:***
-
 ![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/overviewWorld.PNG "Unity Screenshot - Spielbereich")
 
-![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/screenshotBr%C3%BCcke.png "Unity Screenshot - InGame")
+**Screenshots InGame:**
 
+![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/screenshotBr%C3%BCcke.png "Unity Screenshot 1")
+
+![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Screenshots/screenshotStrasse.png "Unity Screenshot 2")
 
 **Arbeitsweise und Kommunikation:**
 - Zu Beginn haben wir als Kommunikationsmittel **Whatsapp** gewählt. Dort haben wir bei unserem ersten Treffen eine Gruppe erstellt, um dort schnell und unkompliziert Ideen auszutauschen
