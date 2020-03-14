@@ -73,3 +73,7 @@ in einem Wald, in dem sich eine Hütte befindet
 
 **Schwierigkeiten und Probleme:**
 - Wir mussten leider feststellen, dass das Spiel auf dem uns zur Verfügung stehenden Android-Smartphone (Samsung Galaxy S8) abstürzt, da die Anforderungen eventuell zu hoch sind. Daher bestand die Überlegung, die Plattform der Anwendung vom Smartphone auf den Computer zu ändern. Auf dem Computer läuft das Spiel flüssig und kann ohne Probleme getestet werden. 
+
+
+**Aktuelle Version des Projektes:**
+- Unter https://drive.google.com/open?id=1H-TEaAewgI0skOXWUGXTnJJCdOPPRJSv ist sowohl die aktuelle Mobile- als auch PC-Version des Spiels zu finden
