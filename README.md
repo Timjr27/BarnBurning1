@@ -18,7 +18,7 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 
 ![Hier sehen Sie das Logo](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Artwork/Glade_Logo.jpg "Logo")
 
-
+![Hier sehen Sie den Startbildschirm](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Artwork/Glade_Titelbild2.jpg "Titelbild")
 
 **Programmierung:**
 - Das Projekt soll als Mobile-App für das Betriebssystem **Android** programmiert werden
