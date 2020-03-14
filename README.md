@@ -47,6 +47,7 @@ in einem Wald, in dem sich eine Hütte befindet
 ![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/overviewWorld.PNG "Unity Screenshot - Spielbereich")
 
 **Screenshots InGame:**
+
 ![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Screenshots/screenshotStrasse.png "Unity Screenshot 1")
 
 ![Hier sehen Sie einen Screenshot](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Screenshots/screenshotBr%C3%BCcke.png "Unity Screenshot 2")
