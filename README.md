@@ -13,8 +13,8 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 
 **Artwork:**
 - Das Logo und das Titelbild des Spiels haben wir mithilfe von **Adobe Photoshop** erstellt
-- Durch die Flammen im Logo soll ein erster Bezug zu **Barn Burning** geschaffen werden
-- Durch das beklemmende Design des Titelbilds soll der Spieler direkt auf die düstere Atmosphäre des Spiels eingestellt werden
+- Durch die Flammen im Logo (Bild 1) soll ein erster Bezug zu **Barn Burning** geschaffen werden
+- Durch das beklemmende Design des Titelbilds (Bild 2) soll der Spieler direkt auf die düstere Atmosphäre des Spiels eingestellt werden
 
 ![Hier sehen Sie das Logo](https://raw.githubusercontent.com/Timjr27/BarnBurning1/master/Glade_Logo.jpg "Logo")
 
