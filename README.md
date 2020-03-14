@@ -56,7 +56,7 @@ in einem Wald, in dem sich eine Hütte befindet
 - Wir haben uns Notizen zur Umsetzung gemacht und diese über Github geteilt. Die Arbeitsschritte wurden klar gesetzt und verteilt  
 
 **Aktueller Stand unseres Projektes:**
-- Unsere aktuelle Projekt-.apk ist die **Version 6** (mobile_2020_26_01v6.apk). 
+- Unsere aktuelle Projekt-.apk ist die **Version 6** (mobile_2020_26_01v6.apk) [siehe hier] (https://drive.google.com/open?id=1H-TEaAewgI0skOXWUGXTnJJCdOPPRJSv). 
 - In dieser Version ist die Karte vollständig enthalten, die Steuerung ist fertig angepasst, und die ersten Animationen sind eingebaut
 - Außerdem sind manche Gegenstände mit gewissen Events versehen, zum Beispiel erscheint bei längerem Betrachten bestimmter Bäume ein Textfeld mit Zitaten aus der Kurzgeschichte 
 - Auch die Soundeffekte und Hintergrundmusik sind größtenteils in der Anwendung erhalten 
