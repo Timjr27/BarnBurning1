@@ -6,6 +6,10 @@
 Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 
 
+**Aktuelle Version des Projektes:**
+- Unter https://drive.google.com/open?id=1H-TEaAewgI0skOXWUGXTnJJCdOPPRJSv ist sowohl die aktuelle Mobile- als auch PC-Version des Spiels zu finden
+
+
 **Projektidee:**
 - Unser VR-Projekt ***Glade*** visualisiert eine interaktive 3D-Virtual-Reality-Umgebung in Form eines Spiels, welches auf der Interpretation der Kurzgeschichte **Barn Burning** von Haruki Murakami und Lee Chang-dong basiert
 - Das Spiel findet, anders als in der Kurzgeschichte, aus der Sicht von Ben statt und spielt sich hauptsächlich in einem dunklen Wald ab
@@ -34,7 +38,7 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 
 
 **Musik, Sounds und Voice Overs:**
-- Die Musik, Sounds und Voice Overs im Spiel haben wir mithilfe des Programms **???** erstellt bzw. eingesprochen
+- Die Musik, Sounds und Voice Overs im Spiel haben wir mithilfe des Programms **Final Cut Pro**, einer Videoschnitt-Software, die auch zum Anfertigen und Bearbeiten von Audio-Inhalten geeignet ist, erstellt bzw. eingesprochen
 - Die Musik soll zur düsteren Atmosphähre beitragen und die Sounds sollen dem Spieler ein realistischeres Gefühl der Interaktion geben bzw. die Immersion verstärken
 - Die Voice Overs sind Zitate aus der Kurzgeschichte und sollen einen engeren Bezug zu dieser schaffen
 
@@ -72,8 +76,5 @@ in einem Wald, in dem sich eine Hütte befindet
 
 
 **Schwierigkeiten und Probleme:**
-- Wir mussten leider feststellen, dass das Spiel auf dem uns zur Verfügung stehenden Android-Smartphone (Samsung Galaxy S8) abstürzt, da die Anforderungen eventuell zu hoch sind. Daher bestand die Überlegung, die Plattform der Anwendung vom Smartphone auf den Computer zu ändern. Auf dem Computer läuft das Spiel flüssig und kann ohne Probleme getestet werden. 
-
-
-**Aktuelle Version des Projektes:**
-- Unter https://drive.google.com/open?id=1H-TEaAewgI0skOXWUGXTnJJCdOPPRJSv ist sowohl die aktuelle Mobile- als auch PC-Version des Spiels zu finden
+- Wir mussten leider feststellen, dass das Spiel auf dem uns zur Verfügung stehenden Android-Smartphone (Samsung Galaxy S8) abstürzt, da die Anforderungen eventuell zu hoch sind. Daher bestand die Überlegung, die Plattform der Anwendung vom Smartphone auf den Computer zu ändern. 
+- Auf einem Laptop/Computer mit schwächerer Leistung kann es zu kleineren Performance-Problemen kommen. Auf einem leistungsstarken Laptop/Computer läuft das Spiel jedoch flüssig und kann ohne Probleme getestet werden. 
