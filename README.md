@@ -1,14 +1,12 @@
 # VR-Projekt: ***GLADE***
 
-## Dokumentation
-
 **Gruppenmitglieder:**
 Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
-
 
 **Aktuelle Version des Projektes:**
 Unter https://drive.google.com/open?id=1H-TEaAewgI0skOXWUGXTnJJCdOPPRJSv ist sowohl die aktuelle Mobile- als auch PC-Version des Spiels zu finden
 
+## Dokumentation
 
 **Projektidee:**
 - Unser VR-Projekt ***Glade*** visualisiert eine interaktive 3D-Virtual-Reality-Umgebung in Form eines Spiels, welches auf der Interpretation der Kurzgeschichte **Barn Burning** von Haruki Murakami und Lee Chang-dong basiert
