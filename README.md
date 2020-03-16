@@ -7,7 +7,7 @@ Patrick Dangel, Joe Franz, Felix Mann, Tim Rittig
 
 
 **Aktuelle Version des Projektes:**
-- Unter https://drive.google.com/open?id=1H-TEaAewgI0skOXWUGXTnJJCdOPPRJSv ist sowohl die aktuelle Mobile- als auch PC-Version des Spiels zu finden
+Unter https://drive.google.com/open?id=1H-TEaAewgI0skOXWUGXTnJJCdOPPRJSv ist sowohl die aktuelle Mobile- als auch PC-Version des Spiels zu finden
 
 
 **Projektidee:**
