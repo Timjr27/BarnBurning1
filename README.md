@@ -67,5 +67,5 @@ in einem Wald, in dem sich eine Hütte befindet.
 
 **Schwierigkeiten und Probleme:**
 - Wir mussten leider feststellen, dass das Spiel auf dem uns zur Verfügung stehenden Android-Smartphone (Samsung Galaxy S8) abstürzt, da die Anforderungen eventuell zu hoch sind. Daher bestand die Überlegung, die Plattform der Anwendung vom Smartphone auf den Computer zu ändern. 
-- Auf einem Laptop/Computer mit schwächerer Leistung kann es zu kleineren Performance-Problemen kommen. Auf einem leistungsstarken Laptop/Computer läuft das Spiel jedoch flüssig und kann ohne Probleme getestet werden. 
+- Auf auf dem PC/Laptop läuft das Spiel in der Test-Version flüssig und kann ohne Probleme gespielt werden. In der ausführbaren Datei kommt es jedoch zu einigen Performance-Problemen, wofür wir leider bisher keine Lösung finden konnten. 
 - Der Rollover für die Auswahl *Spiel starten* im Startbildschirm wird aus uns unbekannten Gründen anders angezeigt als im Unity-Playtest. Deshalb haben wir das Playtest-Video *menuStart.mp4* im Ordner *Videos* abgelegt.
